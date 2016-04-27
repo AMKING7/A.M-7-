@@ -238,13 +238,8 @@ Admins
 @AMMEHRSE7EN [CREATOR]
 @BANDM1234567 [SUDO]
 
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
 
-Our channels@ [English]
+Our channels
 @ambot7 [persian]
 ]],
     help_text_realm = [[
