@@ -240,7 +240,7 @@ Admins
 
 
 Our channels
-@ambot7 [persian]
+@THE_AM7 [persian]
 ]],
     help_text_realm = [[
 Realm Commands:
